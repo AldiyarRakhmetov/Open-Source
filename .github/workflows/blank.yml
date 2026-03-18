@@ -36,4 +36,4 @@ jobs:
         run: echo "Build complete"
 
       - name: Check README
-        run: grep "project" README.md
+        run: grep "Open-Source" README.md
